@@ -1,5 +1,5 @@
 /*
-Ultrasonic Sensor Controller 
+Ultrasonic Sensor Automation 
 Created by Philip Pincencia
 June 23, 2023
 */
